@@ -1,0 +1,1 @@
+{"appName":"default-git-source","userGivenName":"default-git-source","destNamespace":"t1","destServer":"https://kubernetes.default.svc","srcPath":"resources_t1","srcRepoURL":"https://github.com/oren-codefresh/test5_git-source.git","srcTargetRevision":"","labels":{"codefresh_io_entity":"git-source"},"exclude":"","include":""}
