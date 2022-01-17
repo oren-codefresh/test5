@@ -1,0 +1,1 @@
+{"appName":"rollout-reporter","userGivenName":"rollout-reporter","destNamespace":"t1","destServer":"https://kubernetes.default.svc","srcPath":"apps/rollout-reporter/t1/resources","srcRepoURL":"https://github.com/oren-codefresh/test5.git","srcTargetRevision":"","labels":{"codefresh_io_entity":"component"},"exclude":"","include":""}
