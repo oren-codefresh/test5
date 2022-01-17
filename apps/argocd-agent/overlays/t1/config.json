@@ -1,0 +1,1 @@
+{"appName":"argocd-agent","userGivenName":"argocd-agent","destNamespace":"t1","destServer":"https://kubernetes.default.svc","srcPath":"apps/argocd-agent/overlays/t1","srcRepoURL":"https://github.com/oren-codefresh/test5.git","srcTargetRevision":"","labels":{"codefresh_io_entity":"component"}}
